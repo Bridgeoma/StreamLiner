@@ -1,12 +1,11 @@
-Welcome to the AWS CodeStar sample web application
-==================================================
+About StreamLiner
+=================
 
-This sample code helps get you started with a simple Node.js web service deployed by AWS CloudFormation to AWS Lambda and Amazon API Gateway.
+StreamLiner enables teams to quickly develop, build and deploy Event Data Streams that leverage
+the AWS Serverless Application Model and AWS Codestar
 
 What's Here
 -----------
-
-This sample includes:
 
 * README.md - this file
 * buildspec.yml - this file is used by AWS CodeBuild to package your

@@ -1,6 +1,6 @@
 {
-    "name": "hello-world",
-    "description": "Sample NodeJs web application",
+    "name": "streamliner",
+    "description": "Enables DevOps for Data Engineering and Analytics",
     "version": "0.0.1",
     "private": true,
     "devDependencies": {

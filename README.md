@@ -1,11 +1,10 @@
 About StreamLiner
 =================
 
-StreamLiner enables teams to quickly develop, build and deploy Event Data Streams that leverage
-the AWS Serverless Application Model and AWS Codestar
+StreamLiner enables data engineering and analytics teams to quickly develop, build and deploy Event Data Streams that leverage the Serverless Application Model.  Although StreamLiner is intended for multi-cloud implementation, the MVP version (Release 1.0) runs only on AWS.
 
-What's Here
------------
+What's in this Repo for the MVP version
+---------------------------------------
 
 * README.md - this file
 * buildspec.yml - this file is used by AWS CodeBuild to package your
